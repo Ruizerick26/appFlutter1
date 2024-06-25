@@ -19,3 +19,13 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/Ruizerick26/appFlutter1/assets/117743844/b8329c3c-869b-4bca-b21b-7fca05504b48)
 
+# CAPTURAS DE FUNCIONALIDAD
+![imagen](https://github.com/Ruizerick26/appFlutter1/assets/117743844/15d88729-6dc5-46a1-a37d-a879e8580419)
+![imagen](https://github.com/Ruizerick26/appFlutter1/assets/117743844/fd89aa72-6022-4059-8cc4-2556fa2ababf)
+
+# LINK DEL APK
+
+[APK DEL TRABAJO](https://drive.google.com/file/d/1R1dJsDmQmom9lKvQBVu4wOOmSJxUUIo1/view?usp=sharing)
+
+
+
